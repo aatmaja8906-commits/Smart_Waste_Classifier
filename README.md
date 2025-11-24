@@ -66,9 +66,9 @@ The user can:
 ![output](screenshots/output.png)
 
 ### Waste Categories  
-![categories](screenshots/categories.png)
+![wastecategories](screenshots/wastecategories.png)
 
-> Ensure your screenshot filenames match these or update paths accordingly.
+
 
 ---
 
