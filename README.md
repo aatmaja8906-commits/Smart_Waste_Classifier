@@ -66,7 +66,7 @@ The user can:
 ![output](screenshots/output.png)
 
 ### Waste Categories  
-![wastecategories](screenshots/wastecategories.png)
+![categories](screenshots/categories.png)
 
 
 
